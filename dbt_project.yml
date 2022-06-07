@@ -1,6 +1,6 @@
-name: 'dwh'
+name: 'jaffle_shop'
 version: '0.1'
-profile: 'dwh'
+profile: 'jaffle_shop'
 config-version: 2
 
 model-paths: ["models"]
